@@ -1,4 +1,4 @@
-# **Title Goes Here**
+# **Block Letters**
 
 Block Letters will output my initials to the terminal. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus), has been an invaluable exercise in applying the knowledge I learned in learning to program C++.
 
