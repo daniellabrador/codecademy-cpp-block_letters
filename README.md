@@ -15,8 +15,6 @@ Write a C++ program called initials.cpp that displays the initials of your name 
 
 ![Block Letters](./resources/img/block-letters.webp)
 
-Happy coding!
-
 ## Technologies
 
 - C++
